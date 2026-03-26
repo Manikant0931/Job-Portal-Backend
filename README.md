@@ -1,6 +1,6 @@
 # Job Portal - MERN Stack Application
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://job-portal-frontend.onrender.com)
+[![Live Demo]()]
 
 A simple and beginner-friendly Job Portal application built with React, Express, MongoDB, and Node.js. This project allows users to view job listings, save favorite jobs, and manage job postings.
 
