@@ -1,0 +1,59 @@
+/* AllJobs Page Styles */
+
+.alljobs-page {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  padding: 20px 0;
+}
+
+/* Jobs Grid Layout */
+.jobs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 25px;
+  margin-top: 30px;
+}
+
+/* Loading Spinner */
+.spinner-border {
+  animation: spin 1.5s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Alert Box */
+.alert {
+  padding: 30px 20px;
+  border-radius: 8px;
+  background-color: #f0f7ff;
+  border-left: 4px solid #2196F3;
+  color: #1565c0;
+}
+
+.alert h4 {
+  margin: 0 0 10px 0;
+  font-size: 18px;
+}
+
+.alert p {
+  margin: 0;
+  font-size: 14px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .jobs-grid {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .jobs-grid {
+    grid-template-columns: 1fr;
+  }
+}

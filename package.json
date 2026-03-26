@@ -1,0 +1,26 @@
+{
+  "name": "job-portal-backend",
+  "version": "1.0.0",
+  "description": "its a backend for job portal which wee have created yesterday",
+  "keywords": [
+    "express"
+  ],
+  "license": "ISC",
+  "author": "Manikant Mishra",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node seed.js",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.6",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.2",
+    "nodemon": "^3.1.14"
+  }
+}
