@@ -302,12 +302,7 @@ taskkill /PID <PID> /F
 
 ---
 
-## 🌐 Live Deployment
 
-### Live Demo Now Available!
-
-**Frontend (Live App):** [job-portal-frontend.onrender.com](https://job-portal-frontend.onrender.com)  
-**Backend (API):** [job-portal-backend.onrender.com](https://job-portal-backend.onrender.com)  
 **Repository:** [github.com/MANIMISHRA/job-portal-mern](https://github.com/MANIMISHRA/job-portal-mern)
 
 - ✅ Frontend deployed on Render as Static Site
