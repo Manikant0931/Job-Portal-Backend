@@ -1,7 +1,6 @@
 # Job Portal - MERN Stack Application
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://job-portal-frontend.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MANIMISHRA%2Fjob--portal--mern-black?style=for-the-badge&logo=github)](https://github.com/MANIMISHRA/job-portal-mern)
 
 A simple and beginner-friendly Job Portal application built with React, Express, MongoDB, and Node.js. This project allows users to view job listings, save favorite jobs, and manage job postings.
 
@@ -302,12 +301,7 @@ taskkill /PID <PID> /F
 
 ---
 
-## 🌐 Live Deployment
 
-### Live Demo Now Available!
-
-**Frontend (Live App):** [job-portal-frontend.onrender.com](https://job-portal-frontend.onrender.com)  
-**Backend (API):** [job-portal-backend.onrender.com](https://job-portal-backend.onrender.com)  
 **Repository:** [github.com/MANIMISHRA/job-portal-mern](https://github.com/MANIMISHRA/job-portal-mern)
 
 - ✅ Frontend deployed on Render as Static Site
